@@ -6,7 +6,7 @@ Türkiye'nin tüm posta kodları listesini içeren MySQL veri tabanı
 ###Toplam
 * 81 İl,
 * 957 İlçe,
-* 52.835 Semt / Köy,
+* 52.835 Semt / Mahalle / Köy,
 * 3.226 Posta kodundan oluşmaktadır.
 
 
