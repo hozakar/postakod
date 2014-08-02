@@ -10,7 +10,7 @@ Türkiye'nin tüm posta kodları listesini içeren MySQL veri tabanı
 * 3.226 Posta kodundan oluşmaktadır.
 * Son güncellemesi 2012 yılında yapılmıştır.
 
+Kullanım ve detaylı bilgi için: 
+
 ###Lisans
 CC 1.0 ile lisanslanmıştır.
-
-Kullanım ve detaylı bilgi için: 
